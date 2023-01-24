@@ -1,3 +1,3 @@
 # demo-read
 
-nothing personal just a sample
+personal just a sample
